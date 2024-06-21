@@ -29,13 +29,7 @@ To install the necessary dependencies, run:
 bash
 Copy code
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
-Usage
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/EDA-House-Prices.git
-cd EDA-House-Prices
-Run the Jupyter Notebook:
+
 Open the EDA_House_Prices.ipynb file in Jupyter Notebook and run all the cells to perform the EDA.
 
 Jupyter Notebook Content
